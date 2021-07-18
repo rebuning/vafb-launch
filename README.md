@@ -17,3 +17,9 @@ from the pad.
 I hope you enjoy using these programs as much as I enjoyed creating them..
 
 Ron
+
+Fixed Coordinates:
+Vandenberg AFB Launch Complex SLC-2W
+
+lat1 = radians(34.7552778)
+lon1 = radians(120.6222222)
